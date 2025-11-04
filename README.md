@@ -1,5 +1,5 @@
 # Vision Transformer with Capsule Network for Industrial Anomaly Detection (VTIAD-Capsule)
-
+# View the WandB logs and Report here. https://api.wandb.ai/links/slayers/mljw6278
 ## Overview
 The **Vision Transformer-based Anomaly Detection** (VTIAD) network is enhanced with a **Capsule Network** to effectively detect and localize anomalies in industrial images. By leveraging the spatial preservation capabilities of Vision Transformers (ViT) and the dynamic routing of Capsule Networks, this approach aims to improve the accuracy and robustness of anomaly detection tasks.
 
