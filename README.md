@@ -33,8 +33,9 @@ Images are processed with log transformations and privacy-preserving techniques,
 
 1. **Clone the repository**:
     ```bash
-    git clone https://github.com/your-username/vtiad-capsule.git
-    cd vtiad-capsule
+    git clone https://github.com/aaronafersn/vit-unsupervised-anomaly-detection.git
+    
+    cd vit-unsupervised-anomaly-detection
     ```
 
 2. **Install dependencies**:
