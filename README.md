@@ -62,7 +62,10 @@ python train.py --dataset "BTAD" --product "Product1" --epochs 100 --batch_size 
 
 ## Results
 
-The model is evaluated using various anomaly detection metrics. The performance is benchmarked on both the BTAD dataset and publicly available datasets like MVTec. Results will be made available upon further testing.
+The model is evaluated using various anomaly detection metrics. The performance is benchmarked on the BTAD dataset. 
+
+![Demo](ViTloss.png)
+![Demo](ViTloss2.png)
 
 ## Cited
 
